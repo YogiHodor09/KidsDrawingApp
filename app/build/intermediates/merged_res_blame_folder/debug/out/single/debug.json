@@ -1,70 +1,106 @@
 [
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable_small.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable\\small.xml"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable_ic_undo.png.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable\\ic_undo.png"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/layout/activity_main.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/xml_backup_rules.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable-v24_large.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable-v24\\large.xml"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable-v24_medium.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable-v24\\medium.xml"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable_ic_brush.png.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable\\ic_brush.png"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/xml_data_extraction_rules.xml.flat",
-        "source": "com.yogesh.kidsdrawingapp-main-31:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.yogesh.kidsdrawingapp-merged_res-29:/layout_dialog_brush_size.xml.flat",
+        "source": "com.yogesh.kidsdrawingapp-main-31:/layout/dialog_brush_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable_ic_save.png.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\layout_dialog_brush_size.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\layout\\dialog_brush_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\drawable_background_drawing_view_layout.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\drawable\\background_drawing_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yogih\\.gradle\\daemon\\7.4\\com.yogesh.kidsdrawingapp-main-31:\\xml\\data_extraction_rules.xml"
     }
 ]
